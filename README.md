@@ -6,7 +6,7 @@ This jquery plugin can create keybaord shortcuts to select a checkout/radio inpu
 Usage
 =====
 
-Simple to use. Simply call it on an element selected bu jquerty selector.
+Dead Simple!! Call it inputKeyPress() on the container element that wraps yout checkbox/radio inputs.
 By default 4 keys a,b,c,d are binded to select 1st, 2nd, 3rd and 4th radio input.
 
     $('#answers').inputKeyPress();
